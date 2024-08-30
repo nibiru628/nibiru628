@@ -8,4 +8,4 @@ Me gustan los videojuegos, la literatura y el ajedrez.<br>
 Espero que mis proyectos sean de ayuda para muchos y que la pasemos bien mientras construimos una comunidad sana y segura.<br>
 ¡Pura vida!</p>
 
-### 💜
+### 🤖
